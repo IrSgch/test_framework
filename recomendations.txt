@@ -1,0 +1,4 @@
+https://docs.python.org/3/library/venv.html   all about venv
+
+python -m venv name_of_environment
+name_of_environment\Scripts\Activate
